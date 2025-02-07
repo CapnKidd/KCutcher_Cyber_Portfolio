@@ -1,4 +1,4 @@
-# KCutcher_Cyber_Portfolio
+# Kenny's Cyber Security Portfolio
 A portfolio for my Cybersecurity projects
 @@ -8,7 +8,7 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 # Project Overview 
