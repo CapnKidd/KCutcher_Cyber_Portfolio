@@ -11,7 +11,7 @@ Hi, I'm Kenny and this is my Cyber Security Portfolio. I am currently seeking a 
 
 
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
+Here is a list of the certifications that I have attained as well as the ones I plan on studying for:
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
