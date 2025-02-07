@@ -5,7 +5,14 @@ Hi, I'm Kenny and this is my Cyber Security Portfolio. I am currently seeking a 
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com](https://github.com/iMentorYT/SIEM/tree/main)">SIEM</a>   |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
+
+
+# Certifications 
+List our your certifications and/or link to them. Also include the ones you plan on doing!
+
+|     Certification     |               Completed?               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
